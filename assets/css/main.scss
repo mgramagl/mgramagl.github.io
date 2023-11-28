@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+$link-color: #314D8A;
+$masthead-link-color: #314D8A;
+
+/*
+GS: to override any SASS variables in "_variables.scss", you must place new values here, BEFORE
+the `@import` statements, as that is the point where the variables are used!
+See: https://github.com/mmistakes/minimal-mistakes/issues/2278#issuecomment-541484035
+*/
+
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
