@@ -38,7 +38,7 @@ and master courses:
 
 # Research Projects
 
-You can find my current resarch projects in the [UC3M Research Portal](https://researchportal.uc3m.es/display/inv45532?&tab=projects#){:target="_blank"}.
+You can find my current research projects in the [UC3M Research Portal](https://researchportal.uc3m.es/display/inv45532?&tab=projects#){:target="_blank"}.
 {: .text-justify}
 
 # Advising
