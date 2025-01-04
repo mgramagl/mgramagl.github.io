@@ -11,7 +11,7 @@ classes:
 
 # Short Bio
 
-I am a professor at the [Telematic Engineering Department](https://www.it.uc3m.es){:target="_blank"}, [UC3M](https://www.uc3m.es){:target="_blank"}, where I got my Ph.D. in 2012. My research interests are machine learning applied to 6G Networks, data privacy, and cybersecurity. I have been involved in several projects funded by the European Commission through the 5GPPP and SNS programmes, and I have authored more than 80 peer-reviewed publications. You can find an almost up to date CV [here](assets/pdf/resume.pdf){:target="_blank"}.
+I am a professor at the [Telematics Engineering Department](https://www.it.uc3m.es){:target="_blank"}, [UC3M](https://www.uc3m.es){:target="_blank"}, where I got my Ph.D. in 2012. My research interests are machine learning applied to 6G Networks, data privacy, and cybersecurity. I have been involved in several projects funded by the European Commission through the 5GPPP and SNS programmes, and I have authored more than 80 peer-reviewed publications. You can find an almost up to date CV [here](assets/pdf/resume.pdf){:target="_blank"}.
 {: .text-justify}
 
 # News
@@ -20,6 +20,10 @@ I usually post News and Updates on [X](https://twitter.com/mgramagl){:target="_b
 {: .text-justify}
 
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/mgramagl?ref_src=twsrc%5Etfw" target="_blank">Tweets by mgramagl</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+and on
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="marco-gramaglia-04831855" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/marco-gramaglia-04831855?trk=profile-badge">LinkedIn</a></div>
+{: .text-justify}              
 
 # Publications
 
